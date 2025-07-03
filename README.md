@@ -30,3 +30,6 @@ Business logic defined through DAX measures for:
 Revenue, profit, margin, YoY %
 
 Segment and region contributions
+
+# Link to Dashboard
+https://app.powerbi.com/groups/me/reports/458985a2-0c58-4e48-90ee-0d1fbf0aae25/2240d3f9da0c048320b3?experience=power-bi
