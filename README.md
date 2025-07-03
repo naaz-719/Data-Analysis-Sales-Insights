@@ -1,4 +1,4 @@
-# Data-Analysis-Sales-Insights
+# Superstore Business Data Analysis
 
 A Power BI dashboard that transforms raw sales data into meaningful business insights
 
